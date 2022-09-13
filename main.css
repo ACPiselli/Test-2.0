@@ -99,6 +99,7 @@ p {
 
 .box {
   float: left;
-  width: 33.33%;
-  padding: 50px;
+  width: 50%;
+  border: 2px solid red;
+  border-radius: 5px;
 }
