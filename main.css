@@ -1,4 +1,11 @@
-* {
+* 
+
+body {
+ background-image: url("PittBG.jpg");
+ background-color: #000000;
+}
+
+{
     margin: auto;
     font-size: large;
     text-decoration: none;
