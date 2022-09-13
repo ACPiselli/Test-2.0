@@ -12,13 +12,7 @@ body {
     font-family: 'Urbanist', arial sans-serif;
 }
 
-.background {
-    background: linear-gradient(180deg,#000000,#300000);
-    position: fixed;
-    height: 20vh;
-    width: 20vw;
-    z-index: -1;
-}
+
 
 .topwrapper {
     width: 20%;
