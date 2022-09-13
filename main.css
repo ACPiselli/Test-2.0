@@ -80,13 +80,37 @@ p {
     color: rgb(187, 0, 0);
 }
 
-.logo {
-    width: 30px;
-}
-
 .vip {
     display: flex;
     justify-content: center;
     align-items: center;
     align-content: center;
+}
+
+.logo {
+    width: 30px;
+}
+
+.info {
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Links {
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 10px;
+    color: red;
+}
+
+.bio {
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 40px;
+    color: red;
 }
