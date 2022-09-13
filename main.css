@@ -1,18 +1,18 @@
-* 
-
-body {
- background-image: url("PittBG.jpg");
- background-color: #000000;
-}
-
-{
+* {
     margin: auto;
     font-size: large;
     text-decoration: none;
     font-family: 'Urbanist', arial sans-serif;
 }
 
-
+.background {
+    background-image: url("PittBG.jpg");
+    background-color: #000000;
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    z-index: -1;
+}
 
 .topwrapper {
     width: 20%;
