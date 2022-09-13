@@ -92,6 +92,7 @@ p {
     width: 30px;
 }
 
+.block,
 .info {
     width: 20%;
     display: flex;
