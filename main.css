@@ -91,7 +91,7 @@ p {
 }
 
 .block,
-.info::after {
+div.info::after {
   content: "";
   clear: both;
   display: table;
