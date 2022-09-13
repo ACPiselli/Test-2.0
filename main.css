@@ -91,17 +91,14 @@ p {
 }
 
 .block,
-.info {
-    width: 20%;
-    display: flex;
-    justify-content: space-around;
+.info::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .box {
-    font-weight: bold;
-    font-size: x-large;
-    text-align: center;
-    padding-left: 40px;
-    padding-right: 10px;
-    color: red;
+  float: left;
+  width: 33.33%;
+  padding: 50px;
 }
