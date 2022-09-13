@@ -97,7 +97,7 @@ p {
   display: table;
 }
 
-.box {
+div.box {
   float: left;
   width: 50%;
   border: 2px solid red;
