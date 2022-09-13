@@ -97,20 +97,11 @@ p {
     justify-content: space-around;
 }
 
-.Links {
+.box {
     font-weight: bold;
     font-size: x-large;
     text-align: center;
     padding-left: 40px;
     padding-right: 10px;
-    color: red;
-}
-
-.bio {
-    font-weight: bold;
-    font-size: x-large;
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 40px;
     color: red;
 }
