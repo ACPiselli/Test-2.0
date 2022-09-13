@@ -1,0 +1,91 @@
+* {
+    margin: auto;
+    font-size: large;
+    text-decoration: none;
+    font-family: 'Urbanist', arial sans-serif;
+}
+
+.background {
+    background: linear-gradient(180deg,#000000,#300000);
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    z-index: -1;
+}
+
+.topwrapper {
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.jenna {
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 30px;
+    color: red;
+}
+
+.rainn {
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 40px;
+    color: red;
+}
+
+.pic {
+    height: 75%;
+    width: 200px;
+    margin-bottom: 50px;
+    display: block;
+    padding-top: 40px;
+}
+
+
+img {
+    display: block;
+}
+
+.pic1 {
+    width: 200px;
+    border: 1px solid black;
+}
+
+a {
+    background: white;
+    border: 1px solid black;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 30px auto;
+    width: 300px;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    color: rgb(187, 0, 0);
+}
+
+a:hover {
+    background: rgb(161, 161, 161);
+}
+
+p {
+    text-align: center;
+    font-size: large;
+    color: rgb(187, 0, 0);
+}
+
+.logo {
+    width: 30px;
+}
+
+.vip {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
