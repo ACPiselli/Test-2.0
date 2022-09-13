@@ -6,9 +6,7 @@
 }
 
 .background {
-    background-image: url("PittBG.jpg");
-    background-color: #000000;
-    background-position: center;
+    background-color: #ffffff;
     position: fixed;
     height: 100vh;
     width: 100vw;
