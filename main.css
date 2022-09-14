@@ -90,14 +90,7 @@ p {
     width: 30px;
 }
 
-.block,
-div.info::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-div.box {
+.box {
   float: left;
   width: 50%;
   border: 2px solid blue;
