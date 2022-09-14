@@ -92,7 +92,7 @@ p {
 
 .box {
   float: left;
-  width: 50%;
+  width: 200px;
   border: 2px solid blue;
   border-radius: 12px;
   padding: 5px;
