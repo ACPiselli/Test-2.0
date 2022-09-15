@@ -45,16 +45,6 @@
     padding-top: 40px;
 }
 
-
-img {
-    display: block;
-}
-
-.pic1 {
-    width: 200px;
-    border: 1px solid black;
-}
-
 ul {
   box-sizing: border-box;
   list-style: none;
