@@ -18,28 +18,15 @@
     justify-content: space-around;
 }
 
-.jenna {
-    font-weight: bold;
-    font-size: x-large;
-    text-align: center;
-    padding-left: 40px;
-    padding-right: 30px;
-    color: red;
-}
-
 .rainn {
     font-weight: bold;
     font-size: x-large;
     text-align: center;
-    padding-left: 30px;
-    padding-right: 40px;
     color: red;
 }
 
 .pic1 {
-    margin-bottom: 1em;
     display: block;
-    padding-top: 40px;
     border: 1px solid black;
 }
 
