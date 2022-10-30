@@ -8,6 +8,7 @@
     background: linear-gradient(180deg,#000000,#500000);
     position: fixed;
     width: 100vw;
+    Height: 100vw;
     z-index: -1;
 }
 
