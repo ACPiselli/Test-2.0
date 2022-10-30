@@ -5,7 +5,6 @@
 }
 
 .background {
-    background-image: src="./images/Bg.jpg");
     background: linear-gradient(180deg,#000000,#500000);
     position: fixed;
     height: 100vh;
