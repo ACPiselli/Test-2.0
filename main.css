@@ -18,8 +18,9 @@
 }
 
 .rainn {
+    margin-bottom: 1em;
     font-weight: bold;
-    font-size: x-large;
+    font-size: 48px;
     text-align: center;
     color: red;
 }
