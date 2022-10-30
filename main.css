@@ -13,7 +13,6 @@
 }
 
 .topwrapper {
-    width: 25%;
     display: flex;
     justify-content: space-around;
 }
@@ -26,6 +25,7 @@
 }
 
 .pic1 {
+    width: 400px;
     display: block;
 }
 
